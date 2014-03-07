@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneApp9Patch", "PhoneApp9Patch\PhoneApp9Patch.csproj", "{849E3872-8368-43D0-9F2A-ACEB1F7E4F4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{849E3872-8368-43D0-9F2A-ACEB1F7E4F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{849E3872-8368-43D0-9F2A-ACEB1F7E4F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{849E3872-8368-43D0-9F2A-ACEB1F7E4F4E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{849E3872-8368-43D0-9F2A-ACEB1F7E4F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{849E3872-8368-43D0-9F2A-ACEB1F7E4F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{849E3872-8368-43D0-9F2A-ACEB1F7E4F4E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
